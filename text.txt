@@ -1,4 +1,5 @@
 hello
 hi
 
-i am from remote repository
+i am from remote repository.
+now i want to go remote repository
